@@ -18,7 +18,7 @@
 <div> 
   <a href="https://www.tiktok.com/@umfuturodev" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/tiktok_button_icon_151836.png" height="30"  target="_blank"></a>
   <a href="https://instagram.com/juannicolas5051" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "juannicolasdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:juannicolasdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juan-nicolas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
