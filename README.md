@@ -1,7 +1,9 @@
 ### Olá! Meu nome é Juan
 
+-Tenho 18 anos. Apaixonado pela tecnologia desde criança.
+
 - 🔭 Estou estudando Desenvolvimento de Software Full-Stack
-- 🌱 Estudando DOM
+- 🌱 Estudando React.JS atualmente
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
