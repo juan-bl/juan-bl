@@ -1,4 +1,4 @@
-### Olá! Meu nome é Juan
+### Olá! Meu nome é Juan!
 <div> 
   <a href="https://www.tiktok.com/@umfuturodev" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/tiktok_button_icon_151836.png" height="30"  target="_blank"></a>
   <a href="https://instagram.com/juannicolas5051" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -14,6 +14,8 @@
 - 🌱 Estudando React.JS atualmente
 - 😄 Pronouns: ele/dele
 
+##
+###Minhas tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
