@@ -7,6 +7,7 @@
 
 -Tenho 18 anos. Apaixonado pela tecnologia desde criança.
 
+- 📍 Brasília/DF, Brasil
 - 🔭 Estou estudando Desenvolvimento de Software Full-Stack
 - 🌱 Estudando React.JS atualmente
 - 😄 Pronouns: ele/dele
