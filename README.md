@@ -96,7 +96,7 @@
   ```
   node_modules
   ```
-  Assim os módulos do node não vão subir junto com o projeto para o GitHub quando for dado o push;
+  Assim os módulos do node não vão subir junto com o projeto para o GitHub quando for dado o push; <br>
   5. Por fim, ainda no terminal na pasta do projeto, vamos iniciar ele no navegador escrevendo:
   ```
   git start
