@@ -42,3 +42,13 @@
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-bl&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=juan-bl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+##
+
+# Um Dos Meus Projetos:
+
+## O que é esse projeto?
+
+<section>
+  <p>Esse projeto é um player de música feito em React.js. O player possui quatro musicas, onde cada uma possui seu card com a capa do álbum, nome da música e descrição.</p>
+</section>
