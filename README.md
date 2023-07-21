@@ -70,3 +70,11 @@
 <section>
   <p>Aqui temos o wall/mural, onde se encontram os card, que foram explicados anteriormente na introdução. Os cards são clicaveis, quando ativados, tocam suas respectivas músicas.</p>
 </section>
+
+### Player
+
+![Player](https://github.com/juan-bl/juan-bl/assets/129800235/b3bdf91f-3e4f-4d6c-b0b8-ecb0660801d7)
+
+<section>
+  <p>O player consiste em cinco elementos, o primeiro fica no inicio, onde mostra o nome e artista da música atual.</p>
+</section>
