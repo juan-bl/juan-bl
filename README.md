@@ -49,6 +49,8 @@
 
 ## O que é esse projeto?
 
+> ![Cubos Player](https://user-images.githubusercontent.com/129800235/255066640-25178efe-1644-448c-9f50-52b21028835a.png)
+
 <section>
   <p>Esse projeto é um player de música feito em React.js. O player possui quatro musicas, onde cada uma possui seu card com a capa do álbum, nome da música e descrição.</p>
 </section>
