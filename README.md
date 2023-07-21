@@ -83,3 +83,22 @@
   <p>- O terceiro botão tem a função de pausar e dar play na música. Durante a reprodução da música atual, o botão estara com o icone de pausa, e quando pressionado, a música ira pausar. E quando estiver em pausa, o icone do botão mudara para um play, que ao pressionado voltará a tocar a mesma música que estava tocando no momento em que parou;</p>
   <p>- O quarto botão tem a função de passar para a próxima faixa de música.</p>
 </section>
+
+## Como executar o projeto?
+
+  1. Faça o fork do projeto entrando no meu repositorio <a href = "https://github.com/juan-bl/desafio-frontend-m03-ddst12" target="_blank">clicando aqui</a>;
+  2. Depois do fork, com o repositório no seu perfil, faça o git clone para a sua máquina;
+  3. No seu terminal dentro da pasta do projeto, você deve instalar o node modules para que o React funcione (estou considerando que você já tem o node instalado na sua máquina). Para instalar esses módulos só escrever no terminal:
+  ```
+  npm install
+  ```
+  4. Apos os módulos instalados, se por algum motivo o arquivo _.gitignore_ não vier dentro da pasta _src_, basta criar dentro dela o arquivo, e dentro do _.gitignore_ escrever:
+  ```
+  node_modules
+  ```
+  Assim os módulos do node não vão subir junto com o projeto para o GitHub quando for dado o push;
+  5. Por fim, ainda no terminal na pasta do projeto, vamos iniciar ele no navegador escrevendo:
+  ```
+  git start
+  ```
+  Assim ele vai abrir e você vai poder vizualizar as mudanças que você vai fazer no código.
