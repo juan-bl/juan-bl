@@ -54,3 +54,19 @@
 <section>
   <p>Esse projeto é um player de música feito em React.js. O player possui quatro musicas, onde cada uma possui seu card com a capa do álbum, nome da música e descrição.</p>
 </section>
+
+### Header
+
+> ![Header](https://user-images.githubusercontent.com/129800235/255067947-64bec38f-2a11-4f32-920b-9c49cadab44b.png)
+
+<section>  
+  <p>O cabeçalho do site possui dois elementos, a logo da empresa e uma mensagem de boas vindas ao usuario com sua foto.</p>
+</section>
+
+### Wall
+
+![Wall](https://github.com/juan-bl/juan-bl/assets/129800235/28efdbcc-af08-4692-838d-26a64857be96)
+
+<section>
+  <p>Aqui temos o wall/mural, onde se encontram os card, que foram explicados anteriormente na introdução. Os cards são clicaveis, quando ativados, tocam suas respectivas músicas.</p>
+</section>
