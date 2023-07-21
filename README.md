@@ -76,5 +76,10 @@
 ![Player](https://github.com/juan-bl/juan-bl/assets/129800235/b3bdf91f-3e4f-4d6c-b0b8-ecb0660801d7)
 
 <section>
-  <p>O player consiste em cinco elementos, o primeiro fica no inicio, onde mostra o nome e artista da música atual.</p>
+  <p>O player consiste em cinco elementos, o primeiro fica no inicio, onde mostra o nome e artista da música atual, e vai mudando conforme a música tocada.</p>
+  <p>Os proximos elementos ficam no painel de controle:</p>
+  <p>- O primeiro botão tem a função de parar a música atual e voltar ao inicio da lista de reprodução;</p>
+  <p>- O segundo botão tem a função de voltar a faixa anterior;</p>
+  <p>- O terceiro botão tem a função de pausar e dar play na música. Durante a reprodução da música atual, o botão estara com o icone de pausa, e quando pressionado, a música ira pausar. E quando estiver em pausa, o icone do botão mudara para um play, que ao pressionado voltará a tocar a mesma música que estava tocando no momento em que parou;</p>
+  <p>- O quarto botão tem a função de passar para a próxima faixa de música.</p>
 </section>
