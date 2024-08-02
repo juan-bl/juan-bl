@@ -5,11 +5,11 @@
 
 ##
 
--Tenho 18 anos. Apaixonado pela tecnologia desde criança.
+-Tenho 19 anos. Apaixonado pela tecnologia desde criança.
 
 - 📍 Brasília/DF, Brasil
 - 🔭 Estou estudando Desenvolvimento de Software Backend
-- 🌱 Estudando Nest.JS atualmente
+- 🌱 Estudando Nest.JS e Java
 - 😄 Pronouns: ele/dele
 
 ##
