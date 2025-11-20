@@ -5,11 +5,11 @@
 
 ##
 
--Tenho 19 anos. Apaixonado pela tecnologia desde criança.
+-Tenho 20 anos. Apaixonado pela tecnologia desde criança.
 
 - 📍 Brasília/DF, Brasil
 - 🔭 Estou estudando Desenvolvimento de Software Backend
-- 🌱 Estudando Nest.JS e Java
+- 🌱 Javeiro
 - 😄 Pronouns: ele/dele
 
 ##
@@ -21,6 +21,9 @@
   <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Juan-Java" height="50" width="50" src="https://github.com/user-attachments/assets/3cd0f6b1-33bc-464f-a653-ee657ed78d9c">
+
+
 </div>
 
 ##
