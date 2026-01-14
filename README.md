@@ -1,4 +1,4 @@
-# Olá, meu nome é Juan!
+# Olá, meu nome é Juan! (PERFIL EM MANUTENÇÃO)
 <div> 
   <a href="https://www.linkedin.com/in/juan-nicolas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
