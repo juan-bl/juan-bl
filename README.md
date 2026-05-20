@@ -34,12 +34,19 @@ Sou um desenvolvedor backend de 21 anos, de Brasília/DF, apaixonado por tecnolo
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=juan-bl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Juan" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-bl&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-bl&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="150em" />
 </p>
+
+📌 **Seguidores:** ![Seguidores](https://img.shields.io/github/followers/juan-bl?label=Network&style=flat-square&color=6DB33F&logo=github)
 
 ---
 
+## 💡 Pensamento do Dia
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB33F&width=500&lines=Falar+%C3%A9+f%C3%A1cil.+Mostre-me+o+c%C3%B3digo.;+Caf%C3%A9+para+dentro%2C+c%C3%B3digo+para+fora.;+Console.log(%22Mundo+Backend%22);" alt="Typing SVG" />
+</p>
+
+---
 ## 📨 Vamos nos conectar?
 
 Seja para conversar sobre backend, projetos ou oportunidades de trabalho, sinta-se à vontade para me encontrar nas redes:
