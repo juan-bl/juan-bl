@@ -26,6 +26,7 @@ Sou um desenvolvedor backend de 21 anos, de Brasília/DF, apaixonado por tecnolo
 ## 🚀 Projetos em Destaque
 
 * **Gerenciador Paróquia:** Sistema focado em gestão de dados e fluxos internos (em desenvolvimento ativo, integrando as stacks de backend e interface web).
+* **Finance Core (Hackathon COBOL 2026):** Sistema financeiro em COBOL Batch para processamento de clientes e transações bancárias. Aplica validações de regras de negócio, atualização de saldos, geração de logs de erro/extratos e exportação de dados em JSON para simular integração com sistemas modernos.
 * **Doces da Colmeia:** Projeto em grupo de estudo do SENAI. Uma loja de doces fictícia, com sistema de login, cardapio e carrinho.
 * **Filmes de Terror:** Um mini-projeto 100% frontend. Como um bom fã de filmes de terror, eu não poderia deixar de fazer um pequeno site onde listo meus filmes de terror favoritos com minha opnião sobre eles.
 
